@@ -1,0 +1,300 @@
+body
+{
+    margin: 0;
+}
+.img-wrapper
+{
+
+    display: flex;
+    justify-content: center;
+    position:absolute; 
+    top: 170px; 
+    left: 620px;
+
+}
+.france
+{
+padding: 15px 30px;
+border-bottom: 1px solid #dadce0;
+font-size: 14px;
+color: rgba(0,0,0,.54);
+font-family: arial,sans-serif;
+position:absolute; 
+top: 950px;
+background-color:  #ebebeb;
+
+
+}
+
+.Propos
+{
+display: block;
+padding: 15px;
+white-space: nowrap;
+color: #70757a;
+text-decoration: none;
+font-size: 14px;
+font-family: arial,sans-serif;
+position:absolute; 
+top: 1000px;
+background-color:  #ebebeb;
+
+}
+
+.Publicité                                     
+{
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    color: #70757a;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    position:absolute; 
+    top: 1000px; 
+    left: 100px;
+    background-color:  #ebebeb;
+
+    
+}
+
+.Entreprise
+{
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    color: #70757a;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    position:absolute; 
+    top: 1000px; 
+    left: 200px;
+    background-color:  #ebebeb;
+
+}
+
+.Comment
+{
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    color: #70757a;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    position:absolute; 
+    top: 1000px;
+     left: 300px;
+    background-color:  #ebebeb;
+
+    
+}
+
+.Carbone
+{
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    color: #70757a;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    position:absolute; 
+    top: 1000px;
+     left: 800px;
+    background-color:  #ebebeb;
+
+    
+}
+
+.consommateurs
+{
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    color: #70757a;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    position:absolute; 
+    top: 1000px;
+     left: 1300px;
+    background-color:  #ebebeb;
+
+    
+}
+
+.Confidentialité
+{
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    color: #70757a;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    position:absolute; 
+    top: 1000px; 
+    left: 1450px;
+    background-color:  #ebebeb;
+
+    
+}
+
+.Conditions
+{
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    color: #70757a;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    position:absolute; 
+    top: 1000px;
+     left: 1575px;
+    background-color:  #ebebeb;
+
+    
+}
+
+.Paramètres
+{
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    color: #70757a;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    position:absolute; 
+    top: 1000px; 
+    left: 1675px;
+    background-color:  #ebebeb;
+
+    
+}
+
+.Recherche
+{
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    color: #70757a;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    position:absolute;
+     top: 450px; 
+     left: 740px;
+    background-color:  #f8f9fa;
+
+    
+}
+
+.Tendance
+{
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    color: #70757a;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    position:absolute; 
+    top: 450px; 
+    left: 900px;
+    background-color:  #f8f9fa;
+
+
+    } 
+
+    /* main */
+.search-wrapper
+{
+    position:absolute; top: 350px; left: 800px;
+    
+}
+
+.seach-icon{
+    width:20px; 
+    margin-top:4px;
+    margin-left:8px 
+}
+.search-input{
+
+}
+.mic-icon{
+    width:24px;
+    margin-top:4px;
+    margin-right:8px 
+}
+ 
+.Connexion
+{
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    color:  #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    position:absolute; 
+    top: 5px; 
+    left: 1690px;
+    background-color:   #376ff9 ;
+    
+    }
+    
+.Points
+{
+
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    color:  #000000 ;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    position:absolute;
+     top: 5px; 
+     left: 1550px;
+    background-color:  #f8f9fa;
+
+
+}
+
+.Images
+{
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    color:  #000000 ;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    position:absolute; 
+    top: 5px; 
+    left: 1470px;
+    background-color:  #f8f9fa;
+
+
+}
+
+.gmail
+{
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    color:  #000000 ;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    position:absolute;
+     top: 5px; 
+     left: 1400px;
+    background-color:  #f8f9fa;
+
+
+}
